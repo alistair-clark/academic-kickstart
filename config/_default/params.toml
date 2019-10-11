@@ -94,7 +94,7 @@ address = {street = " 2366 Main Mall", city = "Vancouver", region = "BC", postco
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "49.261407", longitude = "123.248931"}
+coordinates = {latitude = "49.261407", longitude = "-123.248931"}
 
 # Directions for visitors to locate you.
 directions = ""
